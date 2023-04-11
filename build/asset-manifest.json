@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc55d8be.css",
+    "main.js": "/static/js/main.85757a63.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/pathum-danthanarayana-t8TOMKe6xZU-unsplash.jpg": "/static/media/pathum-danthanarayana-t8TOMKe6xZU-unsplash.ea9e158cf492cf1403b7.jpg",
+    "static/media/istockphoto-1371339413-170667a.jpg": "/static/media/istockphoto-1371339413-170667a.0dd2f3956de2727256ec.jpg",
+    "static/media/monitor-1307227__480.jpg": "/static/media/monitor-1307227__480.ab23862fdfc06ca416b3.jpg",
+    "static/media/app_ic.png": "/static/media/app_ic.87d733a7e7f2821d8ab5.png",
+    "static/media/sk1.jpg": "/static/media/sk1.aab72b2189a3cc66ce49.jpg",
+    "static/media/python-programming-language-web-development-coding-concept-python-programming-language-web-development-coding-concept-101102785.jpg": "/static/media/python-programming-language-web-development-coding-concept-python-programming-language-web-development-coding-concept-101102785.a0ec0dd6ec1bd8be2a88.jpg",
+    "static/media/twitter.png": "/static/media/twitter.4200511f7ea2abca8552.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.bc55d8be.css.map": "/static/css/main.bc55d8be.css.map",
+    "main.85757a63.js.map": "/static/js/main.85757a63.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc55d8be.css",
+    "static/js/main.85757a63.js"
+  ]
+}
